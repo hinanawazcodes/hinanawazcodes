@@ -241,15 +241,7 @@ Every repository represents something I've **learned, practiced, or built.**
 
 ---
 
-# 📈 Contribution Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hinanawazcodes&bg_color=0d1117&color=00c6ff&line=6c63ff&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
 
 # 🐍 Contribution Snake
 
