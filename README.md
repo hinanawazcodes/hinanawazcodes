@@ -253,11 +253,8 @@ Every repository represents something I've **learned, practiced, or built.**
 
 # 🐍 Contribution Snake
 
-<div align="center">
+![Snake animation](https://raw.githubusercontent.com/hinanawazcodes/hinanawazcodes/refs/heads/gh-pages/github-contribution-grid-snake-dark.svg)
 
-<img src="https://raw.githubusercontent.com/hinanawazcodes/hinanawazcodes/output/github-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
 
 ---
 
